@@ -1,9 +1,34 @@
 # I've joined the #100DaysOfCode Challenge
 
+## Projects
+
+* Personal blog
+* Investments Portfolio
+* Photo seller
+* Crypto exchange
+* DAO Venture Builder
+
+
+## Technologies
+
+* AWS, Firebase
+* Vue, Webpack
+* Node.js, Python (Django), Solidity
+* MongoDB, Postgres
+* Bitcoin, Ethereum
+* RegEx
+* DevOps and Microservices
+* Tests
+
+## Tools
+
+* [RegexCrossword](https://regexcrossword.com/)
+* [OverTheWire](http://overthewire.org)
+
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Round 1 Log - click here to see my progress](r1-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
