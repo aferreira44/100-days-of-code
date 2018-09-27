@@ -13,5 +13,3 @@ Resolve two Ruby Exercism solutions
 
 Resolve one Bash Exercism solution
   - [](https://github.com/aferreira44/exercism-solutions/commit/9a186718120720293a73428190fb414150eeb10a)
-
-### R1D2
