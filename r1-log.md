@@ -1,7 +1,7 @@
 # #100DaysOfCode
 
 The log of my #100DaysOfCode challenge.  
-Started on [Sep 26, Tuesday, 2018].
+Started on **Sep 26, Tuesday, 2018**.
 
 ## Log - Round 1
 
