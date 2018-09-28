@@ -13,3 +13,9 @@ Started on **Sep 26, Tuesday, 2018**.
 
 :tada: Resolve one Bash Exercism solution
   - [Hello World](https://github.com/aferreira44/exercism-solutions/commit/9a186718120720293a73428190fb414150eeb10a)
+
+### Day #2 :date: 2018.09.27
+
+:tada: Ruby Leap Year solution at Exercism
+
+  - [Leap](http://bit.ly/2xQKc9C)
