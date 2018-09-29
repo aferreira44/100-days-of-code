@@ -5,6 +5,29 @@ Started on **Sep 26, Tuesday, 2018**.
 
 ## Log - Round 1
 
+### Day #4 :date: 2018.09.29
+
+:tada: Resolve two Ruby Exercism.io solutions
+  - [Two Fer](http://bit.ly/2IoftWm)
+  - [Word Count](http://bit.ly/2Isfn02)
+
+:tada: Improve readability from past solutions
+
+**Thoughts:**
+
+  - I learn how to use `and` and `or` operators properly. http://bit.ly/2R8lY3z
+  - I struggle and learn a lot about RegExp
+
+### Day #3 :date: 2018.09.28
+
+:tada: [Ruby Flatten Array solution at Exercism.io](http://bit.ly/2zEFgH8)
+:tada: Ruby language studies
+:tada: AWS studies (@estabilisbr #DevOps Foundation Course)
+
+**Thoughts:**
+
+  - I don't need to use `return` statement in last line of Ruby functions
+
 ### Day #2 :date: 2018.09.27
 
 :tada: Ruby Leap Year solution at Exercism
