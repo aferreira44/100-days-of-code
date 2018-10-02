@@ -5,6 +5,15 @@ Started on **Sep 26, Tuesday, 2018**.
 
 ## Log - Round 1
 
+### Day #5 :date: 2018.09.30
+
+:tada: [Start a new personal website using Gatsby](http://bit.ly/2xMUCrR)
+
+**Thoughts:**
+
+  - Learn about Gatsby, React, CSS-in-JS, CSS rules and responsive design.
+  - Set up build and deploy pipeline in AWS
+
 ### Day #4 :date: 2018.09.29
 
 :tada: Resolve two Ruby Exercism.io solutions
