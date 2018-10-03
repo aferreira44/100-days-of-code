@@ -5,6 +5,14 @@ Started on **Sep 26, Tuesday, 2018**.
 
 ## Log - Round 1
 
+### Day #6 :date: 2018.10.01
+
+:tada: Change my top menu to use flexbox instead inline-block
+
+**Thoughts:**
+
+  - Learn about flexbox and CSS Grid
+
 ### Day #5 :date: 2018.09.30
 
 :tada: [Start a new personal website using Gatsby](http://bit.ly/2xMUCrR)
