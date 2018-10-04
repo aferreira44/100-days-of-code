@@ -5,6 +5,15 @@ Started on **Sep 26, Tuesday, 2018**.
 
 ## Log - Round 1
 
+### Day #7 :date: 2018.10.04
+
+:tada: [Curso de Ruby - Programação Orientada a Objetos II](https://www.youtube.com/watch?v=W5VrvOCXgy0)
+
+**Thoughts:**
+
+  - Devagar hoje e atrasado 2 dias no desafio
+  - Tô cansado bagaraio, mas ainda consegui estudar alguma coisa
+
 ### Day #6 :date: 2018.10.01
 
 :tada: Change my top menu to use flexbox instead inline-block
