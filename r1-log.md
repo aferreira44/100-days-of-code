@@ -5,6 +5,14 @@ Started on **Sep 26, Tuesday, 2018**.
 
 ## Log - Round 1
 
+### Day #8 :date: 2018.10.05
+
+:tada: [Curso de Ruby - Ruby Avançado I](https://www.youtube.com/watch?v=zYIHufP0UYU)
+
+**Thoughts:**
+
+- [Learn about Blocks, Procs and Lambdas in Ruby](http://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/)
+
 ### Day #7 :date: 2018.10.04
 
 :tada: [Curso de Ruby - Programação Orientada a Objetos II](https://www.youtube.com/watch?v=W5VrvOCXgy0)
