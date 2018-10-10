@@ -5,6 +5,23 @@ Started on **Sep 26, Tuesday, 2018**.
 
 ## Log - Round 1
 
+### Day #10 :date: 2018.10.09
+
+:tada: Final Project: Translate text - [Curso de Ruby - Projeto Final](https://www.youtube.com/watch?v=DPHeSXHnKTs)
+
+**Thoughts:**
+
+- Learn about AWS Ruby SDK and AWS Translate
+
+### Day #9 :date: 2018.10.07
+
+:tada: [Curso de Ruby - Ruby Avançado II](https://www.youtube.com/watch?v=2YTLs4hDReg)
+:tada: [Curso de Ruby - Projeto Final](https://www.youtube.com/watch?v=DPHeSXHnKTs)
+
+**Thoughts:**
+
+- [Learn about Regex, Time Class, HTTP requests, File I/O and private and protected methods in Ruby]
+
 ### Day #8 :date: 2018.10.05
 
 :tada: [Curso de Ruby - Ruby Avançado I](https://www.youtube.com/watch?v=zYIHufP0UYU)
