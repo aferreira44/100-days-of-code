@@ -5,6 +5,14 @@ Started on **Sep 26, Tuesday, 2018**.
 
 ## Log - Round 1
 
+### Day #11 :date: 2018.10.14
+
+:tada: Studies about AI, ML and Supervised Learning
+
+**Thoughts:**
+
+- No coding today, but a lot of reading to familiarize me with the new topics
+
 ### Day #10 :date: 2018.10.09
 
 :tada: Final Project: Translate text - [Curso de Ruby - Projeto Final](https://www.youtube.com/watch?v=DPHeSXHnKTs)
